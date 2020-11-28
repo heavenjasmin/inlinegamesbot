@@ -14,15 +14,15 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Bot API token obtained from @BotFather",
-      "value": ""
+      "value": "1439567594:AAF1yj0QcbWMozcpxP0lkwTaBITRASDWuBc"
     },
     "BOT_USERNAME": {
       "description": "Bot username (without '@' symbol)",
-      "value": ""
+      "value": "JohnnyInlineGamesBot"
     },
     "BOT_WEBHOOK": {
       "description": "Webhook URL",
-      "value": "https://YOURAPPNAME.herokuapp.com"
+      "value": "https://johnnygames.herokuapp.com"
     },
     "BOT_SECRET": {
       "description": "Secret variable used to secure the web hook",
